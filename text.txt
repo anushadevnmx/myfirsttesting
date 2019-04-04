@@ -1,1 +1,2 @@
-My name is anusha
+My name is anusha.
+I am learning git.
